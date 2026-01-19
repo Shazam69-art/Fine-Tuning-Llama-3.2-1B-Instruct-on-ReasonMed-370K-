@@ -1,4 +1,4 @@
-# ReasonMed-LoRA-1B: Medical Reasoning Model Fine-Tuned on ReasonMed
+# Fine Tuning Llama 3.2 1B Instruct on ReasonMed-370K
 
 ## Overview
 
